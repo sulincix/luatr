@@ -1,0 +1,13 @@
+Luatr turkish programming language based on lua.
+
+This is Lua 5.4.1, released on 30 Sep 2020.
+
+Fork & Modification Ali Riza KESKİN 20 Nov 2020.
+
+* Documentation and header installation deleted.
+* Lexer words are translated to turkish.
+* lua renamed to luatr and luac renamed to luatrc
+
+Building and in installing:
+
+make && make install INSTALL_TOP=/your/destdir/path
